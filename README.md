@@ -41,14 +41,25 @@
 
 ## UV Curing of 3D printed part
 <img width="264" alt="Screenshot 2023-12-16 152936" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/bed6c6ea-303f-4ff7-ae1e-09d1d2280847">
+
+
 <img width="248" alt="Screenshot 2023-12-16 152948" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/838ab4e4-368d-46cd-afa9-aec07580edfd">
 
 ## Heat Treatment of 3D printed part
+<img width="237" alt="Screenshot 2023-12-16 153412" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/11080aea-9f32-4c43-8f94-44ad781855e4">
 
-## Output:
+
 <img width="311" alt="Screenshot 2023-12-16 153026" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/7e73fdc3-c69b-435b-81b4-10f3514b8f4c">
 
-### Name:
+## Output:
+<img width="310" alt="Screenshot 2023-12-16 153401" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/3dbb402a-b49a-47fd-823b-4b8c5c620e1f">
+
+
+<img width="324" alt="Screenshot 2023-12-16 153056" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/8fe01a4c-82f0-4587-9daa-af3f89a1c227">
+
+
+
+### Name:SRISHANTH J
 ### Register Number:
 
 ## Result: 
