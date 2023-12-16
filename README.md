@@ -54,13 +54,13 @@
 ## Output:
 <img width="310" alt="Screenshot 2023-12-16 153401" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/3dbb402a-b49a-47fd-823b-4b8c5c620e1f">
 
+<img width="309" alt="Screenshot 2023-12-16 153734" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/2db0a00d-0d72-4330-b71c-a629f4c7cada">
 
-<img width="324" alt="Screenshot 2023-12-16 153056" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/8fe01a4c-82f0-4587-9daa-af3f89a1c227">
 
 
 
 ### Name:SRISHANTH J
-### Register Number:
+### Register Number:212223240160
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
