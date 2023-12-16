@@ -1,5 +1,4 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
 ### DATE: 16/12/2023
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
