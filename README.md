@@ -52,7 +52,6 @@
 <img width="311" alt="Screenshot 2023-12-16 153026" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/7e73fdc3-c69b-435b-81b4-10f3514b8f4c">
 
 ## Output:
-<img width="310" alt="Screenshot 2023-12-16 153401" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/3dbb402a-b49a-47fd-823b-4b8c5c620e1f">
 
 <img width="309" alt="Screenshot 2023-12-16 153734" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/2db0a00d-0d72-4330-b71c-a629f4c7cada">
 
