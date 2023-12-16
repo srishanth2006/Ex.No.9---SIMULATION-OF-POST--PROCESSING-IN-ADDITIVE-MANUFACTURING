@@ -34,7 +34,8 @@
 ## OUTPUT :
 
 ## Support Removal Process
-<img width="261" alt="Screenshot 2023-12-16 152909" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/a4425921-f93a-4a48-89bc-800def1b7958">
+<img width="245" alt="Screenshot 2023-12-16 154014" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/b70ac497-e9bc-463d-b502-f4e9873e9f98">
+
 <img width="266" alt="Screenshot 2023-12-16 152926" src="https://github.com/srishanth2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/0e7bc671-66de-4642-b0e9-f07dfdb85356">
 
 
